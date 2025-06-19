@@ -1345,3 +1345,17 @@ https://live20.bozztv.com/giatv/giatv-bihmtv/bihmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/gFL3JypM/2025-03-17-removebg-preview.png" group-title="World TV",Sine Manila By Blaze
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MoviesThriller.sa" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="World TV",Movies Thriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+
+#EXTINF:-1 tvg-id="MoviesAction.sa" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="World TV",Movies Action
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+#EXTINF:-1  tvg-name="Pawn Stars" tvg-id="US300003S3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20250325T015248SQUARE.png" tvg-chno="2714" group-title="World TV",Pawn Stars
+https://jmp2.uk/sam-US300003S3.m3u8
+
+#EXTINF:-1  tvg-name="America's Got Talent" tvg-id="GBBC2300002GG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250107T022815SQUARE.png" tvg-chno="4064" group-title="World TV",America's Got Talent
+https://jmp2.uk/sam-GBBC2300002GG.m3u8
+
+#EXTINF:-1 tvg-id="TheAmazingRace.us" tvg-logo="https://i.imgur.com/5yzPhRo.png" group-title="World TV",The Amazing Race
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cb89093-75df-464f-ac48-c72627cb5c40
