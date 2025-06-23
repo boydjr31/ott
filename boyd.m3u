@@ -1359,3 +1359,31 @@ https://jmp2.uk/sam-GBBC2300002GG.m3u8
 
 #EXTINF:-1 tvg-id="TheAmazingRace.us" tvg-logo="https://i.imgur.com/5yzPhRo.png" group-title="World TV",The Amazing Race
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cb89093-75df-464f-ac48-c72627cb5c40
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blast Movies" tvg-logo="https://welcome.blasttv.ph/assets/blast-logo.png" group-title="World TV",Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comic U" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comic-u.png" group-title="World TV",Comic U
+https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blast Sports" tvg-logo="https://russel.fandom.com/wiki/Blast_Sports?file=Blast_Sports_Logo_2024.png" group-title="World TV",Blast Sports
+https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Free Movies" tvg-logo="https://m.media-amazon.com/images/I/61BlTnHAwTL.png" group-title="World TV",Free Movies
+https://amg01553-amg01553c2-samsung-ph-7163.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deal or No Deal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Deal_or_No_Deal_Official_Title_Card_%282018%29.png/250px-Deal_or_No_Deal_Official_Title_Card_%282018%29.png" group-title="World TV",Deal or No Deal
+https://amg00627-amg00627c21-samsung-ph-5284.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrow-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Biggest Loser" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Biggest_Loser_logo.jpg/250px-Biggest_Loser_logo.jpg" group-title="World TV",The Biggest Loser
+https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Survivor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/400px-Survivor.borneo.logo.png/250px-400px-Survivor.borneo.logo.png" group-title="World TV",Survivor
+https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATBS Global Movies" tvg-logo="https://phcorner.org/attachments/atbs-global-webp.3753518/" group-title="World TV",ATBS Global Movies
+https://live20.bozztv.com/giatv/giatv-ATBSGLOBAL/ATBSGLOBAL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KQTV Movies" tvg-logo="https://phcorner.org/attachments/k15-webp.3774235/" group-title="World TV",KQTV Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209998/tracks-v1a1/mono.m3u8
+
