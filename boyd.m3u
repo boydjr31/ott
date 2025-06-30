@@ -1558,3 +1558,6 @@ http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791598
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Series 10 ᴴᴰ
 http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791599
+
+#EXTINF:-1 tvg-id="Amazon Movies" tvg-name="Amazon Movies" tvg-logo="https://i.imgur.com/ETZqCII.png" group-title="World TV",Amazon Movies
+https://abbfefcaaaaaaaamd5xd44ij4vbyj.a17d0dfbc05b48999f461f3f6cff0eb6.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
