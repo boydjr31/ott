@@ -1576,3 +1576,6 @@ https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/
 
 #EXTINF:-1  tvg-name="Qello Concerts" tvg-id="64240d3d466225000827412b" tvg-logo="https://images.pluto.tv/channels/64240d3d466225000827412b/colorLogoPNG.png" group-title="World TV",Qello Concerts
 https://jmp2.uk/plu-64240d3d466225000827412b.m3u8
+
+#EXTINF:-1  tvg-name="Qello Concerts by Stingray" tvg-id="CA400004SM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400004SM_20250121T095221SQUARE.png" group-title="World TV",Qello Concerts by Stingray
+https://jmp2.uk/sam-CA400004SM.m3u8
