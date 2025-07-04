@@ -1579,3 +1579,12 @@ https://jmp2.uk/plu-64240d3d466225000827412b.m3u8
 
 #EXTINF:-1  tvg-name="Qello Concerts by Stingray" tvg-id="CA400004SM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400004SM_20250121T095221SQUARE.png" group-title="World TV",Qello Concerts by Stingray
 https://jmp2.uk/sam-CA400004SM.m3u8
+
+#EXTINF:-1 tvg-id="400000048" tvg-logo="https://canvas-lb.tubitv.com/opts/aIZpv6nyysuV1A==/1cd9fa65-16d9-40e6-81c3-a81ce2663736/CHgQeDoFMS4xLjdAAQ==" group-title="World TV",MrBeast
+https://live-manifest.production-public.tubi.io/live/fed4df45-ccae-448e-881d-f980c5712c62/playlist.m3u8
+
+#EXTINF:-1  tvg-name="OCN Movies" tvg-id="iptv/ocnmovies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/OCN_Movies_%EB%A1%9C%EA%B3%A0.svg/300px-OCN_Movies_%EB%A1%9C%EA%B3%A0.svg.png" group-title="World TV",OCN Movies
+https://ott.udptv.net/stream/iptv/ocnmovies/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
+#EXTINF:-1  tvg-name="OCN Movies 2" tvg-id="iptv/ocnmovies" tvg-logo="https://i.imgur.com/Aja53VI.png" group-title="World TV",OCN Movies 2
+https://ott.udptv.net/stream/iptv/ocnmovies2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
