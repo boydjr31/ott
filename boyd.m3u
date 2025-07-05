@@ -1592,14 +1592,6 @@ https://ott.udptv.net/stream/iptv/ocnmovies2/master.m3u8?u=discord.gg/civ3&p=fb3
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Galaxy.png" group-title="World TV", Galaxy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://WahyuIPTV.short.gy/Galaxy.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GalaxyPremium.png" group-title="World TV", GalaxyPremium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://WahyuIPTV.short.gy/GalaxyPremium.mpd
-
 ########## Ph Live Radio ##########
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
