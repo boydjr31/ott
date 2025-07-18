@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="M3U PLAYLIST BY: boyd"
 
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml"
 
 ########## Cignal TV ##########
 
@@ -1387,178 +1387,6 @@ https://live20.bozztv.com/giatv/giatv-ATBSGLOBAL/ATBSGLOBAL/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KQTV" tvg-logo="https://phcorner.org/attachments/k15-webp.3774235/" group-title="World TV",KQTV
 https://live20.bozztv.com/giatvplayout7/giatv-209998/tracks-v1a1/mono.m3u8
 
-########## Sky Store Premiere ##########
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store info ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791635
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 1 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791636
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 2 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791637
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 3 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791638
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 4 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791639
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 5 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791640
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 6 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791641
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 7 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791642
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 8 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791643
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 9 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791644
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 10 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791645
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 11 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791646
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 12 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791647
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 13 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791648
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 14 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791649
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 15 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791650
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 16 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791651
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 17 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791652
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 18 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791653
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 19 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791654
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 20 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791655
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 21 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791656
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 22 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791657
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 23 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791658
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 24 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791659
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 25 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791660
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 26 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791661
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 27 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791662
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 28 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791663
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 29 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791664
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="🍿 SKY STORE Premiere",Sky Store Premiere 30 ᴴᴰ
-http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791665
-
-########## Netflix Premiere ##########
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere info ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791575
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere 1 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791576
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere 2 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791577
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere 3 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791578
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere 4 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791579
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere 5 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791580
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere 6 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791581
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere 7 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791582
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere 8 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791583
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere 9 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791584
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere 10 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791585
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere 11 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791586
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere 12 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791587
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Premiere 13 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791588
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Series info ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791589
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Series 1 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791590
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Series 2 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791591
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Series 3 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791592
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Series 4 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791593
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Series 5 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791594
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Series 6 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791595
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Series 7 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791596
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Series 8 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791597
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Series 9 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791598
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="🍿 NETFLIX Premiere",Netflix Series 10 ᴴᴰ
-http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791599
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/STAR-MOVIES-LOGO-1998.jpg/revision/latest?cb=20170908001124" group-title="World TV",Star Movies
 https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
 
@@ -1603,6 +1431,12 @@ http://watchindia.net:8880/live/49387/51659/2101.ts
 
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="World TV",Star Movies HD
 http://watchindia.net:8880/live/49387/51659/2080.ts
+
+#EXTINF:-1  tvg-name="Movie Hub" tvg-id="d32267711c6a5cf36520716c96b5b3fa" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/d32267711c6a5cf36520716c96b5b3fa/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793656039_Movie_Hub_260x147.png" tvg-chno="305" group-title="RokuTV",Movie Hub
+https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8
+
+#EXTINF:-1  tvg-name="Movie Hub Action" tvg-id="c5cbd4129753f5732d7160596440404f" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c5cbd4129753f5732d7160596440404f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793611093_Movie_Hub_Action_260x147.png" tvg-chno="282" group-title="RokuTV",Movie Hub Action
+https://jmp2.uk/rok-c5cbd4129753f5732d7160596440404f.m3u8
 
 ########## Ph Live Radio ##########
 
