@@ -1447,6 +1447,39 @@ https://ott.udptv.net/stream/iptv/gmanewstv/master.m3u8?u=discord.gg/civ4&p=b48a
 #EXTINF:-1  tvg-name="Vevo 2K" tvg-id="plex.tv.Vevo.2K.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/vevo_2k._SL170_FMpng_.png" group-title="World TV",Vevo 2K
 https://ott.udptv.com/stream/udptv/vevo2k/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
+#EXTINF:-177 tvg-logo="https://i.imgur.com/ST060qy.png"  group-title="World TV",Rock TV Manila
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001177/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-199 tvg-logo="https://i.imgur.com/WNyPhah.png" group-title="PREMIUM MUSIC",CONCERT
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="nowrock-x" tvg-name="NOW ROCK" tvg-logo="https://i.imgur.com/19CEs0c.png" group-title="World TV",NOW ROCK
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u
+
+#EXTINF:-1 tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="World TV",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo=""https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/208.png" group-title="World TV",MovieSphere By Lionsgate
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020283ab8e5d2f36f3652f7c2338c57:b02e021c2d46c4ecf4214e239eb4b0e4
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc137ld1mh)/master_2min.mpd
+
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="IN: Movies Now (4K)" tvg-logo="https://i.ibb.co/0qKmPKd/e0612c9989dba69138bb8026d23dbec1-removebg-preview-1.png" group-title="World TV", MNX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.imgur.com/E1q4Kia.png" group-title="World TV",MN+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="IN: Movies Now (4K)" tvg-logo="https://i.ibb.co/FBXKYbz/png-transparent-movies-now-television-channel-high-definition-television-mn-movies-miscellaneous-tel.png" group-title="World TV", Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
 ########## Ph Live Radio ##########
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
