@@ -1490,6 +1490,9 @@ http://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1  tvg-name="HBO" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="World TV" radio="false",HBO USA
 http://fl1.moveonjoy.com/HBO/index.m3u8
 
+#EXTINF:-1  tvg-name="HBO East HD" tvg-id="hbo-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="World TV",HBO USA HD
+https://v14.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8?token=u12T1KWiQdAjuxyvy1xcVw&expires=1753183820&user_id=RW5qZWNVZ25ocGk0MTBxQ29vVWpEbUlDN0dKWkNmWGlyb29RTzBzRw==
+
 #EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="World TV" radio="false",HBO Comedy
 http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 
@@ -1514,6 +1517,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 
 #EXTINF:-1  tvg-name="ABC (KABC)" tvg-id="udptvus/kabc" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-kabc-us.png?raw=true" group-title="World TV",ABC (KABC)
 https://ott.udptv.org/stream/udptvus/kabc/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTINF:-1  tvg-name="HBO Boxing" tvg-id="Amazon.US.HBOBoxing" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png" group-title="UDPTV Live Streams",HBO Boxing
+https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 ########## Ph Live Radio ##########
 
