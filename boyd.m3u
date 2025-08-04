@@ -1478,8 +1478,8 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="nowrock-x" tvg-name="NOW ROCK" tvg-logo="https://i.imgur.com/19CEs0c.png" group-title="World TV",NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  tvg-name="ESPN" tvg-id="sling/espn" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="World TV",ESPN
-https://ott.udptv.org/stream/udptvus/espn/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+#EXTINF:-1  tvg-name="ESPN HD" tvg-id="ESPN.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="World TV",ESPN HD
+https://a1xs.vip/40000011
 
 #EXTINF:-1  tvg-name="NBA TV HDTV" tvg-id="NBA.TV.USA.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/NBA_TV_HDTV._SL170_FMpng_.png" group-title="World TV",NBA TV HDTV
 https://ott.udptv.com/stream/udptv/nbatvhdtv/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
@@ -1489,9 +1489,6 @@ http://fl1.moveonjoy.com/TNT/index.m3u8
 
 #EXTINF:-1  tvg-name="HBO" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="World TV" radio="false",HBO USA
 http://fl1.moveonjoy.com/HBO/index.m3u8
-
-#EXTINF:-1  tvg-name="HBO East HD" tvg-id="hbo-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="World TV",HBO USA HD
-https://v14.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8?token=u12T1KWiQdAjuxyvy1xcVw&expires=1753183820&user_id=RW5qZWNVZ25ocGk0MTBxQ29vVWpEbUlDN0dKWkNmWGlyb29RTzBzRw==
 
 #EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="World TV" radio="false",HBO Comedy
 http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
@@ -1515,11 +1512,11 @@ https://jmp2.uk/sam-GBBD1900009UD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1  tvg-name="ABC (KABC)" tvg-id="udptvus/kabc" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-kabc-us.png?raw=true" group-title="World TV",ABC (KABC)
-https://ott.udptv.org/stream/udptvus/kabc/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
-
 #EXTINF:-1  tvg-name="HBO Boxing" tvg-id="Amazon.US.HBOBoxing" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png" group-title="World TV",HBO Boxing
-https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20240313194438" group-title="World TV",Star Movies Select
+https://ott.miswa.org/stream/direct/starmoviesselect/master.m3u8?u=miswatv&p=7ab1b6f24a1e2c58d54a3e9ed2eb12c7d2745bf8458603e59ab276e749821897
 
 ########## Ph Live Radio ##########
 
@@ -1575,3 +1572,4 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
