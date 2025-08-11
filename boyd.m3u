@@ -961,14 +961,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
-
 #EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1515,8 +1507,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 #EXTINF:-1  tvg-name="HBO Boxing" tvg-id="Amazon.US.HBOBoxing" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png" group-title="World TV",HBO Boxing
 https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20240313194438" group-title="World TV",Star Movies Select
-https://ott.miswa.org/stream/direct/starmoviesselect/master.m3u8?u=miswatv&p=7ab1b6f24a1e2c58d54a3e9ed2eb12c7d2745bf8458603e59ab276e749821897
+#EXTINF:-1 tvg-id="amazonmovies.ph" tvg-name="Amazon Movies" group-title="World TV",Amazon Movies
+https://ott.m3u8.nathcreqtives.com/amazonmovies/stream/manifest.m3u8
+
+#EXTINF:-1 tvg-id="cinemax2.us" tvg-name="Cinemax 2" group-title="World TV",Cinemax 2
+https://ott.m3u8.nathcreqtives.com/cinemax2/stream/manifest.m3u8
 
 ########## Ph Live Radio ##########
 
@@ -1572,7 +1567,3 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
-
-
-
-
