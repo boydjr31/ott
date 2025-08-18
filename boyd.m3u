@@ -976,14 +976,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
-  
-#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png",Cinemax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="World TV",Celestial Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1185,14 +1177,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
   
-#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png" ,Sky News
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sNrddLcT5LKf0n4UfK5xMw","kid":"S+9/wby2vX8ofe+UDjjLEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
-  
 #EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" ,Al Jazeera
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1344,10 +1328,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
 #EXTINF:-1  tvg-name="Pawn Stars" tvg-id="US300003S3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20250325T015248SQUARE.png" tvg-chno="2714" group-title="World TV",Pawn Stars
-https://jmp2.uk/sam-US300003S3.m3u8
-
-#EXTINF:-1  tvg-name="America's Got Talent" tvg-id="GBBC2300002GG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250107T022815SQUARE.png" tvg-chno="4064" group-title="World TV",America's Got Talent
-https://jmp2.uk/sam-GBBC2300002GG.m3u8
+https://jmp2.uk/stvp-US300003S3
 
 #EXTINF:-1 tvg-id="TheAmazingRace.us" tvg-logo="https://i.imgur.com/5yzPhRo.png" group-title="World TV",The Amazing Race
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cb89093-75df-464f-ac48-c72627cb5c40
@@ -1395,28 +1376,19 @@ https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
 
 #EXTINF:-1  tvg-name="Qello Concerts by Stingray" tvg-id="CA400004SM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400004SM_20250121T095221SQUARE.png" group-title="World TV",Qello Concerts by Stingray
-https://jmp2.uk/sam-CA400004SM.m3u8
+https://jmp2.uk/plu-64240d3d466225000827412b.m3u8
+
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="World TV",Qello Concerts
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb439-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ba3de05-22ef-4ab2-8d11-c4a6c21d39ba
 
 #EXTINF:-1 tvg-id="400000048" tvg-logo="https://canvas-lb.tubitv.com/opts/aIZpv6nyysuV1A==/1cd9fa65-16d9-40e6-81c3-a81ce2663736/CHgQeDoFMS4xLjdAAQ==" group-title="World TV",MrBeast
 https://live-manifest.production-public.tubi.io/live/fed4df45-ccae-448e-881d-f980c5712c62/playlist.m3u8
-
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/jaGqbyh.png",Studio Universal
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="World TV",& Flix HD
 http://watchindia.net:8880/live/49387/51659/2088.ts
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="World TV",& Prive HD
 http://watchindia.net:8880/live/49387/51659/2103.ts
-
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="World TV",Sony Pix HD
-http://watchindia.net:8880/live/49387/51659/2101.ts
-
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="World TV",Star Movies HD
-https://ott.miswa.org/stream/direct/starmovieshd-1/master.m3u8?u=miswatv&p=7ab1b6f24a1e2c58d54a3e9ed2eb12c7d2745bf8458603e59ab276e749821897
 
 #EXTINF:-1  tvg-name="Movie Hub" tvg-id="d32267711c6a5cf36520716c96b5b3fa" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/d32267711c6a5cf36520716c96b5b3fa/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793656039_Movie_Hub_260x147.png" group-title="World TV",Movie Hub
 https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8
@@ -1433,11 +1405,8 @@ https://ott.udptv.net/stream/iptv/ocnmovies2/master.m3u8?u=cocked&p=dd0abb52723d
 #EXTINF:-1  tvg-name="iHeart Movies" tvg-id="iptv/iheartmovies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png" group-title="World TV",iHeart Movies
 https://ott.udptv.net/stream/iptv/iheartmovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
-#EXTINF:-1  tvg-name="GMA News TV" tvg-id="GMA.News.TV.hk" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/GMA_News_TV_Logo_2019.png" group-title="World TV",GMA News TV
-https://ott.udptv.net/stream/iptv/gmanewstv/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
-
-#EXTINF:-1  tvg-name="Vevo 2K" tvg-id="plex.tv.Vevo.2K.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/vevo_2k._SL170_FMpng_.png" group-title="World TV",Vevo 2K
-https://ott.udptv.com/stream/udptv/vevo2k/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="World TV",Vevo 2K
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
 
 #EXTINF:-177 tvg-logo="https://i.imgur.com/ST060qy.png"  group-title="World TV",Rock TV Manila
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1474,7 +1443,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://a1xs.vip/40000011
 
 #EXTINF:-1  tvg-name="NBA TV USA" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="World TV",NBA TV USA
-https://ott.udptv.xyz/stream/udptvus/nbatv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+https://v12.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=_VkllAV8p_BibSD8C32bsQ&expires=1755514054&user_id=Y1p6YWxzQVVFUjdPZmloU2J2SG84ZVJQc09yVzF0VTlFYkpwdWNKVA==
 
 #EXTINF:-1  tvg-name="TNT" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="World TV" radio="false",TNT
 http://fl1.moveonjoy.com/TNT/index.m3u8
@@ -1491,12 +1460,6 @@ http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1  tvg-name="Vevo '90s" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="World TV",Vevo '90s
 https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
 
-#EXTINF:-1  tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="World TV",Vevo '90s & '00s
-https://jmp2.uk/sam-GBBC2100002HP.m3u8
-
-#EXTINF:-1  tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="World TV",Vevo '70s & '80s
-https://jmp2.uk/sam-GBBD1900009UD.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="World TV", TNT SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1509,9 +1472,6 @@ https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=cocked&p=dd0abb52723d2
 
 #EXTINF:-1 tvg-id="amazonmovies.ph" tvg-name="Amazon Movies" group-title="World TV",Amazon Movies
 https://ott.m3u8.nathcreqtives.com/amazonmovies/stream/manifest.m3u8
-
-#EXTINF:-1 tvg-id="cinemax2.us" tvg-name="Cinemax 2" group-title="World TV",Cinemax 2
-https://ott.m3u8.nathcreqtives.com/cinemax2/stream/manifest.m3u8
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://logo.iptveditor.com/beinsports.png",Bein Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1526,6 +1486,20 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png",GMA Pinoy TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
+https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+
+#EXTINF:-1  tvg-name="GMA News TV" tvg-id="GMA.News.TV.hk" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/GMA_News_TV_Logo_2019.png" group-title="World TV",GMA News TV
+https://ott.udptv.net/stream/iptv/gmanewstv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 tvg-id="Vevo70s.us" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="World TV",Vevo '70s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b
+
+#EXTINF:-1 tvg-id="Vevo80s.us" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="World TV",Vevo '80s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
 
 ########## Ph Live Radio ##########
 
@@ -1581,4 +1555,5 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
