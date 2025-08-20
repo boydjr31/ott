@@ -1384,11 +1384,19 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:-1 tvg-id="400000048" tvg-logo="https://canvas-lb.tubitv.com/opts/aIZpv6nyysuV1A==/1cd9fa65-16d9-40e6-81c3-a81ce2663736/CHgQeDoFMS4xLjdAAQ==" group-title="World TV",MrBeast
 https://live-manifest.production-public.tubi.io/live/fed4df45-ccae-448e-881d-f980c5712c62/playlist.m3u8
 
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="World TV",& Flix HD
-http://watchindia.net:8880/live/49387/51659/2088.ts
+#EXTINF:-1 tvg-id="" group-title="World TV" tvg-id="ShowcaseMovies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="World TV",& Prive HD
-http://watchindia.net:8880/live/49387/51659/2103.ts
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/Qx7X56p.png" group-title="World TV" tvg-id="",Studio Universal
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #EXTINF:-1  tvg-name="Movie Hub" tvg-id="d32267711c6a5cf36520716c96b5b3fa" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/d32267711c6a5cf36520716c96b5b3fa/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793656039_Movie_Hub_260x147.png" group-title="World TV",Movie Hub
 https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8
@@ -1441,9 +1449,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-name="ESPN HD" tvg-id="ESPN.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="World TV",ESPN HD
 https://a1xs.vip/40000011
-
-#EXTINF:-1  tvg-name="NBA TV USA" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="World TV",NBA TV USA
-https://v12.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=_VkllAV8p_BibSD8C32bsQ&expires=1755514054&user_id=Y1p6YWxzQVVFUjdPZmloU2J2SG84ZVJQc09yVzF0VTlFYkpwdWNKVA==
 
 #EXTINF:-1  tvg-name="TNT" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="World TV" radio="false",TNT
 http://fl1.moveonjoy.com/TNT/index.m3u8
@@ -1510,6 +1515,15 @@ https://jmp2.uk/stvp-USBB2300004KV
 #EXTINF:-1 channel-id="USBD3300004RH" tvg-id="USBD3300004RH" tvg-chno="4316" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png" group-title="World TV",XITE Hits
 https://jmp2.uk/stvp-USBD3300004RH
 
+#EXTINF:-1  tvg-name="Destination America SD" tvg-id="destination-america" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="World TV",Destination America
+https://v5.thetvapp.to/hls/DestinationAmerica/tracks-v2a1/mono.m3u8?token=cvS983OItItkHbSpdfYlaA&expires=1755674049&user_id=VkRhVzV4czFvc3hJT1ZzQTlTUXFReXgzZnpkYXpwdDVnbEU2clhlUQ==
+
+#EXTINF:-1  tvg-id="700407" tvg-logo="https://canvas-lb.tubitv.com/opts/TxaQnAIfPWtxsg==/f92bd310-5477-49fd-a13b-b33bb79f629c/CHgQeDoFMS4xLjhAAQ==" group-title="World TV",Gardening with Monty Don
+https://live-manifest.production-public.tubi.io/live/f24ba252-3efa-4322-b1df-7315070e6293/playlist.m3u8
+
+#EXTINF:-1  tvg-id="700414" tvg-logo="https://canvas-lb.tubitv.com/opts/9PqOkD1C6J3w5w==/790ebde9-0938-4667-9664-62136298f868/CHgQeDoFMS4xLjhAAQ==" group-title="World TV",Homeful
+https://live-manifest.production-public.tubi.io/live/e12bcebc-5747-4317-8dac-c8717b91fd9d/playlist.m3u8
+
 ########## Ph Live Radio ##########
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
@@ -1564,6 +1578,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
