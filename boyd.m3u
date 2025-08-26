@@ -1473,7 +1473,7 @@ https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1  tvg-name="HBO Boxing" tvg-id="Amazon.US.HBOBoxing" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png" group-title="World TV",HBO Boxing
-https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+https://ott.m3u8.nathcreqtives.com/hboboxing/manifest.m3u8
 
 #EXTINF:-1 tvg-id="amazonmovies.ph" tvg-name="Amazon Movies" group-title="World TV",Amazon Movies
 https://ott.m3u8.nathcreqtives.com/amazonmovies/stream/manifest.m3u8
@@ -1523,6 +1523,12 @@ https://live-manifest.production-public.tubi.io/live/f24ba252-3efa-4322-b1df-731
 
 #EXTINF:-1  tvg-id="700414" tvg-logo="https://canvas-lb.tubitv.com/opts/9PqOkD1C6J3w5w==/790ebde9-0938-4667-9664-62136298f868/CHgQeDoFMS4xLjhAAQ==" group-title="World TV",Homeful
 https://live-manifest.production-public.tubi.io/live/e12bcebc-5747-4317-8dac-c8717b91fd9d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jungo Pinoy HD" group-title="World TV",Jungo Pinoy HD
+https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
+
+#EXTINF:-1 tvg-id="FrontRow HD" group-title="World TV",FrontRow HD
+https://jungotvstream.chanall.tv/jungotv/frontrow/stream.m3u8
 
 ########## Ph Live Radio ##########
 
@@ -1578,6 +1584,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
