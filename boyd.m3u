@@ -1358,6 +1358,15 @@ https://jungotvstream.chanall.tv/jungotv/frontrow/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMTGvq1/ava-family-363x272-removebg-preview.png" group-title="World TV",AVA FAMILY
 https://familyhls.avatv.live/hls/stream.m3u8 
 
+#EXTINF:-1 channel-id="USBD35000149S" tvg-id="USBD35000149S" tvg-name="Stingray Nothin' But 90s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20250630T232441SQUARE.png" group-title="World TV",Stingray Nothin' But 90s
+https://jmp2.uk/stvp-USBD35000149S
+
+#EXTINF:-1 channel-id="USBD3300022QK" tvg-id="USBD3300022QK" tvg-name="Stingray Remember the 80s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20250630T232443SQUARE.png" group-title="World TV",Stingray Remember the 80s
+https://jmp2.uk/stvp-USBD3300022QK
+
+#EXTINF:-1 channel-id="USBD3500008IJ" tvg-id="USBD3500008IJ" tvg-name="Stingray Flashback 70s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20250630T232434SQUARE.png" group-title="World TV",Stingray Flashback 70s
+https://jmp2.uk/stvp-USBD3500008IJ
+
 ########## Ph Live Radio ##########
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
@@ -1412,6 +1421,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
