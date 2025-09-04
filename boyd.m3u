@@ -716,6 +716,9 @@ http://161.49.17.2:6610/001/2/ch00000090990000001287/manifest.mpd?JITPDRMType=Wi
 #EXTINF:-2 group-title="Converge" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg",Congress TV
 http://161.49.17.2:6610/001/2/ch00000090990000001328/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t4HF5va.png" group-title="Converge", HBO Signature
+http://161.49.17.2:6610/001/2/ch00000090990000001285/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
 ########## World TV ##########
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEdPPBMa7Zidx5LBukuxfGpm5g-oWFNg4PYURbwZ9v_8rJM-_bbWzrv11Eis3JeGqpv4k&usqp=CAU"
@@ -1436,3 +1439,4 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
