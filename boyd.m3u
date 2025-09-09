@@ -1452,5 +1452,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001073/manifest.mpd?JITPDRMType=Wi
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01074-history
 http://161.49.17.2:6610/001/2/ch00000090990000001074/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01075-lifetime
+http://161.49.17.2:6610/001/2/ch00000090990000001075/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
