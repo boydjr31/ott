@@ -1601,8 +1601,11 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 #EXTINF:-1  tvg-name="Now 70s" tvg-id="Now 70s" tvg-logo="https://en.wikipedia.org/wiki/Now_70s#/media/File:NOW_70s.png" group-title="World TV",Now 70s
 https://amg01076-amg01076c1-samsung-ph-6994.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  tvg-name="Now 70s" tvg-id="Now 80s" tvg-logo="https://en.wikipedia.org/wiki/Now_80s#/media/File:NOW_80s_logo.png" group-title="World TV",Now 80s
+#EXTINF:-1  tvg-name="Now 80s" tvg-id="Now 80s" tvg-logo="https://en.wikipedia.org/wiki/Now_80s#/media/File:NOW_80s_logo.png" group-title="World TV",Now 80s
 https://amg01076-amg01076c2-samsung-ph-6998.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1  tvg-name="Tennis+" tvg-id="Tennis+" group-title="World TV",Tennis+
+https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
 
 ########## Ph Live Radio ##########
 
@@ -1658,6 +1661,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
