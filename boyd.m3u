@@ -376,6 +376,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/index.mpd
 
+#EXTINF:-1 tvg-id="OneXplore" tvg-logo="https://i.pinimg.com/736x/94/2a/98/942a98bdd45a275c0e879941a411a009.jpg" group-title="Cignal",OneXplore
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_mptv/default/index.mpd
+
 ########## Converge TV ##########
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTZXTtozcxJmpR7clnHYf9iegeWBOWKLytA&s"
@@ -903,6 +910,11 @@ http://161.49.17.2:6610/001/2/ch00000090990000001123/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ST060qy.png"  group-title="Converge",Rock TV Manila
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://161.49.17.2:6610/001/2/ch00000090990000001177/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 ########## World TV ##########
 
@@ -1448,11 +1460,6 @@ https://kaotv.ganbaruby23.xyz/dash/heartofasia/manifest.mpd
 #EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="World TV",Vevo 2K
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
 
-#EXTINF:-177 tvg-logo="https://i.imgur.com/ST060qy.png"  group-title="World TV",Rock TV Manila
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001177/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
 #EXTINF:-1 tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="World TV",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
@@ -1607,28 +1614,17 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 
-#EXTINF:-1  tvg-name="Now 70s" tvg-id="Now 70s" tvg-logo="https://en.wikipedia.org/wiki/Now_70s#/media/File:NOW_70s.png" group-title="World TV",Now 70s
+#EXTINF:-1 tvg-name="Now 70s" tvg-id="Now 70s" tvg-logo="https://en.wikipedia.org/wiki/Now_70s#/media/File:NOW_70s.png" group-title="World TV",Now 70s
 https://amg01076-amg01076c1-samsung-ph-6994.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  tvg-name="Now 80s" tvg-id="Now 80s" tvg-logo="https://en.wikipedia.org/wiki/Now_80s#/media/File:NOW_80s_logo.png" group-title="World TV",Now 80s
+#EXTINF:-1 tvg-name="Now 80s" tvg-id="Now 80s" tvg-logo="https://en.wikipedia.org/wiki/Now_80s#/media/File:NOW_80s_logo.png" group-title="World TV",Now 80s
 https://amg01076-amg01076c2-samsung-ph-6998.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  tvg-name="Tennis+" tvg-id="Tennis+" group-title="World TV",Tennis+
+#EXTINF:-1 tvg-name="Tennis+" tvg-id="Tennis+" group-title="World TV",Tennis+
 https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="starmoviesselect" tvg-name="Star Movies Select HD" tvg-logo="https://i.ibb.co/qMhSS8Fn/Chat-GPT-Image-Jul-26-2025-06-31-48-AM.png" group-title="World TV",Star Movies Select
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mitsuki-wv.b-cdn.net/license
-https://mitsuki-dash.b-cdn.net/mirror/starmoviesslect/static.mpd
-
-#EXTINF:-1 tvg-id="starmovies" tvg-name="Star Movies HD" tvg-logo="https://i.ibb.co/fdT3Hh9R/Chat-GPT-Image-Jul-26-2025-06-27-52-AM.png" group-title="World TV",Star Movies HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mitsuki-wv.b-cdn.net/license
-https://mitsuki-dash.b-cdn.net/mirror/starmovies/static.mpd
+#EXTINF:-2 tvg-name="Abante TV" tvg-id="Abante TV" group-title="World TV",Abante TV
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
 ########## Ph Live Radio ##########
 
@@ -1684,6 +1680,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
