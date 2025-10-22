@@ -1626,8 +1626,11 @@ https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-2 tvg-name="Abante TV" tvg-id="Abante TV" group-title="World TV",Abante TV
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NBA" tvg-id="NBA" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="World TV",NBA
-https://nba.warm98.workers.dev/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine Edge" tvg-id="Cine Edge" group-title="World TV",Cine Edge
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
+
+#EXTINF:-1 tvg-name="Galaxy Premium" tvg-id="Galaxy Premium" group-title="World TV",Galaxy Premium
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
 ########## Ph Live Radio ##########
 
@@ -1636,7 +1639,7 @@ https://nba.warm98.workers.dev/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fuyfjcn4gqee.png" group-title="Ph Live Radio",87.5 Republika FM1
 https://stream.zeno.fm/qnt98p5m108uv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/983/awr-manila-891.ab9269f0.png" group-title="Ph Live Radio",89.1 AWR Manila
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/983/awr-manila-891.ab9269f0.png" group-title="Ph Live Radio",89Galaxy Premium.1 AWR Manila
 http://192.53.113.120:8000/stream?type=.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="Ph Live Radio",89.9 Magic
@@ -1683,6 +1686,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
