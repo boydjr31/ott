@@ -1632,6 +1632,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
 #EXTINF:-1 tvg-name="Galaxy Premium" tvg-id="Galaxy Premium" group-title="World TV",Galaxy Premium
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="World TV",TSN 3
+http://38.143.48.212:9981/stream/channelid/139110812?profile=pass
+
 ########## Ph Live Radio ##########
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
@@ -1686,6 +1689,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
