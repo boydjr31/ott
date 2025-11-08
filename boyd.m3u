@@ -916,6 +916,12 @@ http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001177/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
+#EXTINF:1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Converge" ,GMA 7
+https://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:2 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Converge ,GTV
+https://vod.nathcreqtives.com/stream/convergenceinc/gtv/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
 ########## World TV ##########
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEdPPBMa7Zidx5LBukuxfGpm5g-oWFNg4PYURbwZ9v_8rJM-_bbWzrv11Eis3JeGqpv4k&usqp=CAU"
@@ -1689,35 +1695,6 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
-
-########## fan ##########
-
-#EXTINF:-1 ch-number="4" tvg-chno="4" group-title="fan" tvg-id="GTV.ph" tvg-name="GTV" tvg-logo="https://i.pinimg.com/736x/3f/8e/13/3f8e1369e4053ea6955e179d69d6e1e7.jpg", Gtv
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
-https://vod.nathcreqtives.com/1143/manifest.mpd
-
-#EXTINF:-1 ch-number="2" tvg-chno="2" group-title="fan" tvg-id="GMA ph" tvg-name="GMA" tvg-logo="https://i.pinimg.com/736x/31/9e/05/319e0530158f0647e3dd3b26c40503d3.jpg", GMA HD
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
-https://vod.nathcreqtives.com/1093/manifest.mpd
-
-#EXTINF:-1 ch-number="5" tvg-chno="5" group-title="fan" tvg-id="Kapamilya.Channel.ph" tvg-name="Kapamilya channel" tvg-logo="https://i.pinimg.com/736x/18/4c/34/184c34a3eed374f719ec47b77caafd5a.jpg", Kapamilya Channel HD
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
-https://vod.nathcreqtives.com/1286/manifest.mpd
 
 
 
