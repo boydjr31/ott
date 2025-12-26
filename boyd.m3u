@@ -1327,13 +1327,6 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="World TV", ANC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbno/index.mpd
-
 #EXTINF:-1 tvg-id="DZMM TELERADYO" tvg-name="TeleRadyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1200px-DZMM_TeleRadyo.svg.png" group-title="World TV",DZMM TeleRadyo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1647,6 +1640,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
