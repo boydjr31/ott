@@ -401,6 +401,9 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.
 #KODIPROP:inputstream.adaptive.license_key=3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nhk_japan/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://tapdmv.com/content/images/2025/10/sinengtagalog-art-1.jpg" group-title="Cignal", Tapsilog
+https://tapsilog.honor-tv.42web.io/live/index.m3u8
+
 ########## Converge TV ##########
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTZXTtozcxJmpR7clnHYf9iegeWBOWKLytA&s"
@@ -1422,6 +1425,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="World TV",TSN 3
 http://38.143.48.212:9981/stream/channelid/139110812?profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rpmnywJS/1749647080550.png" group-title="World TV",Concert Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 
 ########## Ph Live Radio ##########
 
