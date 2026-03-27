@@ -16,7 +16,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pphd_sdi1/default/index.mp
 #EXTINF:-1 tvg-id="a2z" tvg-logo="https://i.imgur.com/ftwsljN.png" group-title="Cignal",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f6d8a2c1b7e4c9f8d52a7e1b0c6f93d:4019f9269b9054a2b9e257b114ebbaf2
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 
 #EXTINF:-1 tvg-id="one-ph" tvg-logo="https://i.imgur.com/U9QwJSE.png" group-title="Cignal",One PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -26,7 +26,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 #EXTINF:-1 tvg-id="buko" tvg-logo="https://i.imgur.com/BxQvEil.png" group-title="Cignal",Buko
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
 
 #EXTINF:-1 tvg-id="sari-sari" tvg-logo="https://i.imgur.com/25CGN9g.png" group-title="Cignal",Sari-Sari
 #KODIPROP:inputstream.adaptive.license_type=clearkey
