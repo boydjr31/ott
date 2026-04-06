@@ -1300,6 +1300,12 @@ https://sdtvnetworkph.sanmateocable.workers.dev/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7e5905e0a87641798a200510f01ae5ca:814310518395440d57c67f2ef70ea250
 https://abslive.akamaized.net/dash/live/2027618/mor/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBOSEaSl.png" group-title="World TV",Sine Plus
+https://sineplus_hd.vonnhost.workers.dev/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOSRb69l.png" group-title="World TV",Hype TV
+https://hypetv_hd.vonnhost.workers.dev/mono.ts.m3u8
+
 ########## Ph Live Radio ##########
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
