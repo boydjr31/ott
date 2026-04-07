@@ -1306,6 +1306,10 @@ https://sineplus_hd.vonnhost.workers.dev/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cOSRb69l.png" group-title="World TV",Hype TV
 https://hypetv_hd.vonnhost.workers.dev/mono.ts.m3u8
 
+#EXTINF:-1 tvg-name="Mux" tvg-id="Mux" group-title="World TV",Mux
+https://live20.bozztv.com/giatvplayout7/giatv-209297/playlist.m3u8
+
+
 ########## Ph Live Radio ##########
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
