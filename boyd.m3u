@@ -1309,6 +1309,12 @@ https://hypetv_hd.vonnhost.workers.dev/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Mux" tvg-id="Mux" group-title="World TV",Mux
 https://live20.bozztv.com/giatvplayout7/giatv-209297/playlist.m3u8
 
+#EXTINF:-1 channel-id="5a4d3a00ad95e4718ae8d8db" tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-name="Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG_1731836724642.png" group-title="World TV",Pluto TV Comedy
+https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
+
+#EXTINF:-1 channel-id="561d7d484dc7c8770484914a" tvg-id="561d7d484dc7c8770484914a" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="World TV",Pluto TV Action
+https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
+
 
 ########## Ph Live Radio ##########
 
@@ -1364,3 +1370,6 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ph Live Radio",93.1 Sky Radio
+https://cast5.asurahosting.com/proxy/skyradio/live
