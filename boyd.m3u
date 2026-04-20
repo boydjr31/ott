@@ -1338,6 +1338,33 @@ https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
 #EXTINF:-1 channel-id="5b4e69e08291147bd04a9fd7" tvg-id="5b4e69e08291147bd04a9fd7" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="World TV",Pluto TV Thrillers
 https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
 
+#EXTINF:-1 tvg-id="Starzplay Movies" group-title="World TV",Starzplay Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b59fc6829905f9875d7359cdf6a083b:81474bc4d05be9cb5a6a5bce74da9771
+https://neacdnpop3-edge01.aws.playco.com/live/eds/Starzplay_Movies/DASH/Starzplay_Movies.mpd
+
+#EXTINF:-1 tvg-id="Starzplay Series" group-title="World TV",Starzplay Series
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9fd1dd7d0716e37456c3e17f27ee7ba:3a00049c27da50ba56f081aef1b2d0b1
+https://neacdnpop3-edge01.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd
+
+#EXTINF:-1 tvg-id="MBC Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/MBC_Max_Logo.svg" group-title="World TV",MBC Max
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d995e35f26a3f5ad83f783272d33d956:5e065664006dfd499957b7a4324c8a4f
+https://neacdnpop3-edge01.aws.playco.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd
+
+#EXTINF:-1 tvg-name="3rs TV" tvg-logo="https://imgur.com/50RyQA7" group-title="World TV",3rs TV
+https://3rstv.elektriko4444.workers.dev/peanut.m3u8
+
+#EXTINF:-1 tvg-name="3rs SinePinoy" tvg-logo="https://imgur.com/OCS1l7G" group-title="World TV",3rs SinePinoy
+https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8
+
+#EXTINF:-1 tvg-name="3rs MovieBox" tvg-logo="https://imgur.com/b4rjf8n" group-title="World TV",3rs MovieBox
+https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8
+
+#EXTINF:-1 tvg-name="3rs CartoonMovies" tvg-logo="https://imgur.com/OMGlC4R" group-title="World TV",3rs CartoonMovies
+https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8
+
 ########## Ph Live Radio ##########
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
