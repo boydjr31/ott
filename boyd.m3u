@@ -1377,7 +1377,7 @@ https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Go USA" tvg-logo="https://www.thebrandusa.com/system/files/images/GoUSA_TV_logo.png" group-title="World TV",Go USA
 https://brandusa-gousa-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="JPV TV Music" tvg-logo="https://phcorner.org/attachments/4146234/" group-title="World TV",JPV TV Music
+#EXTINF:-1 tvg-name="JPV TV" tvg-logo="https://phcorner.org/attachments/4146234/" group-title="World TV",JPV TV
 https://jpvtvphilippines_hd.vonnhost.workers.dev/jpv.live/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Mux Movies" tvg-logo="https://phcorner.org/attachments/4127174/" group-title="World TV",Mux Movies
@@ -1385,6 +1385,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-209412/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mux Life" tvg-logo="https://phcorner.org/attachments/4127167/" group-title="World TV",Mux Life
 https://live20.bozztv.com/giatvplayout7/giatv-209362/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC Action" tvg-logo="https://static.wikia.nocookie.net/entertainment1/images/c/cc/MBC_Action.webp/revision/latest/scale-to-width-down/1200?cb=20240626230058" group-title="World TV",MBC Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
+https://neacdnpop3-edge01.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd
 
 
 ########## Ph Live Radio ##########
