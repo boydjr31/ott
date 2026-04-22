@@ -1365,6 +1365,28 @@ https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8
 #EXTINF:-1 tvg-name="3rs CartoonMovies" tvg-logo="https://imgur.com/OMGlC4R" group-title="World TV",3rs CartoonMovies
 https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8
 
+#EXTINF:-1 tvg-name="Now 70s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/250px-NOW_70s.png" group-title="World TV",Now 70s
+https://lightning-now70s-xiaomi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Now 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/NOW_80s_logo.png/250px-NOW_80s_logo.png" group-title="World TV",Now 80s
+https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Now 90s" tvg-logo="https://www.musicweek.com/cimages/f41fb15d5932a2f46c6f309f29720c92.jpeg" group-title="World TV",Now 90s
+https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Go USA" tvg-logo="https://www.thebrandusa.com/system/files/images/GoUSA_TV_logo.png" group-title="World TV",Go USA
+https://brandusa-gousa-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="JPV TV Music" tvg-logo="https://phcorner.org/attachments/4146234/" group-title="World TV",JPV TV Music
+https://jpvtvphilippines_hd.vonnhost.workers.dev/jpv.live/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Mux Movies" tvg-logo="https://phcorner.org/attachments/4127174/" group-title="World TV",Mux Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209412/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mux Life" tvg-logo="https://phcorner.org/attachments/4127167/" group-title="World TV",Mux Life
+https://live20.bozztv.com/giatvplayout7/giatv-209362/playlist.m3u8
+
+
 ########## Ph Live Radio ##########
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
