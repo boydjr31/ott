@@ -976,9 +976,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnon
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/CIPTNnT.png" ,MYX Global
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:35e4893c6e76546085941be3010932d4
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
+https://iptv.akamaized.net/hls/live/2040999/myx/master_2.m3u8
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1378,7 +1376,7 @@ https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
 https://brandusa-gousa-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="JPV TV" tvg-logo="https://phcorner.org/attachments/4146234/" group-title="World TV",JPV TV
-https://jpvtvphilippines_hd.vonnhost.workers.dev/jpv.live/chunks.m3u8
+https://jpvtvphilippines_hd.vonnhost.workers.dev/jpv.live.m3u8
 
 #EXTINF:-1 tvg-name="Mux Movies" tvg-logo="https://phcorner.org/attachments/4127174/" group-title="World TV",Mux Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209412/playlist.m3u8
