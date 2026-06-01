@@ -1421,6 +1421,16 @@ https://converse.nathcreqtives.com/channels/tnt/manifest.mpd?token=eyJhbGciOiJIU
 #EXTINF:-1 tvg-id="tapsilog" tvg-name="Tapsilog" tvg-logo="" group-title="World TV",Tapsilog
 https://converse.nathcreqtives.com/channels/tapsilog/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
 
+#EXTINF:-1 tvg-id="tennischannel" tvg-name="Tennis Channel" tvg-logo="" group-title="World TV",Tennis Channel
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+
+#EXTINF:-1 tvg-id="tennischannel2" tvg-name="Tennis Channel 2" tvg-logo="" group-title="World TV",Tennis Channel 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59F50679C9E60963BD0CB6640992AAAA:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+
 ########## Ph Live Radio ##########
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
