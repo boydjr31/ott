@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="M3U PLAYLIST BY: boyd"
 
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz, http://cdn2.djdoolky76.com/epg.xml"
 
 ########## Cignal TV ##########
 
@@ -1435,6 +1435,16 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-id="mrbean.animation" tvg-name="Mr. Bean Animated" tvg-logo="" group-title="World TV",Mr. Bean Animated
 https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dreamstar TV" group-title="World TV",Dreamstar TV
+https://dreamstartvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-name="Durian TV" group-title="World TV",Durian TV
+https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-name="Asia Flix TV" group-title="World TV",Asia Flix TV
+https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8
+
 
 ########## Ph Live Radio ##########
 
