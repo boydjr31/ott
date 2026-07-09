@@ -211,8 +211,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/premiersports2hd/default/i
 
 #EXTINF:-1 tvg-id="spotv-hd" tvg-logo="https://i.imgur.com/QExPfsT.png" group-title="Cignal",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_spotvhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="spotv-2-hd" tvg-logo="https://i.imgur.com/7mY1Zxg.png" group-title="Cignal",SPOTV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
