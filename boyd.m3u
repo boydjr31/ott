@@ -6,13 +6,6 @@
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg"
 
-#EXTINF:-1 tvg-id="OneXplore" tvg-logo="https://i.pinimg.com/736x/94/2a/98/942a98bdd45a275c0e879941a411a009.jpg" group-title="Cignal",OneXplore
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_mptv/default/index.mpd
-
 #EXTINF:-1 tvg-id="bilyonaryoch" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=1980" group-title="Cignal",Bilyonaryo Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e7f9c518a424d30b2165c3e7a9d6041:8c8c0ef924c982bc1dd92348e024cd4c
@@ -1231,9 +1224,6 @@ https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pcfim2s750/out/v1
 #KODIPROP:inputstream.adaptive.license_key=ee775597b2974af2f134d5a3e83faf62:06aab99aa0e0b987a6530ad2638bcf6a
 https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ahmpb0xbui/out/v1/25297555cec54efe8a00749ee7e25084/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8GErfil.jpg" group-title="World TV",SDTV Network
-https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/MOR_Entertainment_logo.png" group-title="World TV",MOR Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e5905e0a87641798a200510f01ae5ca:814310518395440d57c67f2ef70ea250
@@ -1342,6 +1332,9 @@ http://103.152.216.26:8443/live/jtFxoASW-0gttjjYfMrqWg/1785423923/142.m3u8
 
 #EXTINF:-1 tvg-id="OCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/1280px-OCN_Logo.svg.png" group-title="World TV",OCN
 https://k227.jk-cdn.com/watch/live.m3u8?video=ocn_540&sid=5MkmUYkT7B8QiGGDIp8OTtYByD7RX0KSVMvKitbK&secret=24cf4f0707e771d470e86c3767409c11&time=1783689546#.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="World TV", A2Z
+https://streams.comclark.com/pknsd/a2z/playlist.m3u8
 
 ########## Ph Live Radio ##########
 
