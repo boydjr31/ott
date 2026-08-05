@@ -397,6 +397,11 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=d6f1a8c29b7e4d5a8f332c1e9d7b6a90:790bd17b9e623e832003a993a2de1d87
 https://ucdn.mediaquest.com.ph/bpk-tv/abc_aus/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://bastivi.pages.dev/ip.png" group-title="Cignal",Pilipinas Live
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
+
 ########## Converge TV ##########
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTZXTtozcxJmpR7clnHYf9iegeWBOWKLytA&s"
@@ -1180,10 +1185,10 @@ https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-2 tvg-name="Abante TV" tvg-id="Abante TV" group-title="World TV",Abante TV
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT Spots 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TNT_Sports_3_Stacked.svg/revision/latest?cb=20260225234939" group-title="World TV",TNT Sports 3
+#EXTINF:-1 tvg-id="TNT Spots 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/TNT_Sports_1_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225232947" group-title="World TV",TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rpmnywJS/1749647080550.png" group-title="World TV",Concert Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -1231,15 +1236,6 @@ https://abslive.akamaized.net/dash/live/2027618/mor/manifest.mpd
 
 #EXTINF:-1 tvg-name="Mux" tvg-id="Mux" group-title="World TV",Mux
 https://live20.bozztv.com/giatvplayout7/giatv-209297/playlist.m3u8
-
-#EXTINF:-1 tvg-id="star.movies" tvg-name="Star Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxAYyYpOBXsg7A26b_L4q6VdS4olNZZRqI2g&s" group-title="World TV",Star Movies
-https://converse.nathcreqtives.com/channels/stalker-6680-792de831/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
-
-#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="STAR MOVIES SELECT HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a38ead0e79178b5f14/1565806488322/55fb00a38ead0e79178b5f14.jpg" group-title="World TV",Star Movies Select HD
-https://techstop.online:443/live/8964476/3pUJreUXUW/218.ts
-
-#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="COLORS INFINITY HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-infinity-hd-logo-300x300.jpg" group-title="World TV",Colors Infinity HD
-https://techstop.online:443/live/8964476/3pUJreUXUW/187.ts
 
 #EXTINF:-1 channel-id="68487fb3f212bedacf5a53e3" tvg-id="68487fb3f212bedacf5a53e3" tvg-name="50 Cent Action" tvg-logo="https://images.pluto.tv/channels/68487fb3f212bedacf5a53e3/colorLogoPNG_1749846553889.png" group-title="World TV",50 Cent Action
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
@@ -1335,6 +1331,12 @@ https://k227.jk-cdn.com/watch/live.m3u8?video=ocn_540&sid=5MkmUYkT7B8QiGGDIp8OTt
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="World TV", A2Z
 https://streams.comclark.com/pknsd/a2z/playlist.m3u8
+
+#EXTINF:-1 tvg-id="retro.plus" tvg-logo="https://cdn.aptoide.com/imgs/7/4/8/74815c2b6c389d15aea0fd7897937e30_icon.png" group-title="World TV",Retro Plus Music
+https://rtmpcontrol.com:1936/retroplus/retroplus.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="starz" tvg-logo="https://image.roku.com/developer_channels/prod/faa3d2388dd9d274c80d423a93bf2739286f5af5b82e26106d6a707034cc313c.png" group-title="World TV",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
 ########## Ph Live Radio ##########
 
