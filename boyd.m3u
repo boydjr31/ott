@@ -1342,6 +1342,15 @@ http://192.129.226.68:19890/trams/2051/playlist.m3u8?token=885252
 #EXTINF:-1 group-title="World TV" tvg-logo="",Yuso
 https://mryuso.porhibitum.workers.dev/master.live.m3u8
 
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="STAR MOVIES" tvg-logo="" group-title="World TV",STAR MOVIES
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/1371.m3u
+
+#EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX HD" tvg-logo="" group-title="World TV",SONY PIX HD
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/485.m3u
+
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="EPIX HITS HD" tvg-logo="" group-title="World TV",EPIX HITS HD
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/3143.m3u
+
 ########## Ph Live Radio ##########
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
