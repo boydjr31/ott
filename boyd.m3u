@@ -1350,7 +1350,7 @@ https://mryuso.porhibitum.workers.dev/master.live.m3u8
 
 #EXTINF:-1 tvg-id="cg_hbohd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B741DD7A-A7F8-4F8A-A549-9EF411020F9D/0-16x9.jpg?width=1980" group-title="World TV",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936
+#KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936718716c435914901d2551930a256974e
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(hbo)/master.mpd
 
 
