@@ -1354,7 +1354,11 @@ https://mryuso.porhibitum.workers.dev/master.live.m3u8
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:483c393394ae6297357904b027d53b0c
 https://lott5-web-opus.cdn.avp.telus.net/232006004108/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 
-
+#EXTINF:-1 tvg-id="stingray.festival" tvg-logo="" group-title="World TV",Stingray Festival
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:a7adcdd227b092c16636adcab908d77f
+https://lott3-stb-opus.cdn.avp.telus.net/232006004231/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 
 ########## Ph Live Radio ##########
 
