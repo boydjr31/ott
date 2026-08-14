@@ -1336,8 +1336,15 @@ http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 group-title="World TV" tvg-logo="",video land sports 1
 rtmp://f13h.mine.nu/sat/tv721
 
-#EXTINF:-1 group-title="World TV" tvg-logo="",video land sports 1 2
+#EXTINF:-1 group-title="World TV" tvg-logo="",video land sports 2
+rtmp://f13h.mine.nu/sat/tv701
+
+#EXTINF:-1 group-title="World TV" tvg-logo="",video land sports 3
+http://192.129.226.68:19890/trams/2470/playlist.m3u8?token=885252
+
+#EXTINF:-1 group-title="World TV" tvg-logo="",video land sports 4
 http://192.129.226.68:19890/trams/2051/playlist.m3u8?token=885252
+
 
 ########## Ph Live Radio ##########
 
