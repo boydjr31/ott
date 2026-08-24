@@ -938,21 +938,12 @@ https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/CIPTNnT.png" ,MYX Global
-https://iptv.akamaized.net/hls/live/2040999/myx/master_2.m3u8
-
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
-
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Cbeebies.svg/revision/latest?cb=20211011211035",Cbeebies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="World TV", Bein Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1238,18 +1229,6 @@ https://neacdnpop3-edge01.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d995e35f26a3f5ad83f783272d33d956:5e065664006dfd499957b7a4324c8a4f
 https://neacdnpop3-edge01.aws.playco.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd
-
-#EXTINF:-1 tvg-name="3rs TV" tvg-logo="https://imgur.com/50RyQA7" group-title="World TV",3rs TV
-https://3rstv.elektriko4444.workers.dev/peanut.m3u8
-
-#EXTINF:-1 tvg-name="3rs SinePinoy" tvg-logo="https://imgur.com/OCS1l7G" group-title="World TV",3rs SinePinoy
-https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8
-
-#EXTINF:-1 tvg-name="3rs MovieBox" tvg-logo="https://imgur.com/b4rjf8n" group-title="World TV",3rs MovieBox
-https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8
-
-#EXTINF:-1 tvg-name="3rs CartoonMovies" tvg-logo="https://imgur.com/OMGlC4R" group-title="World TV",3rs CartoonMovies
-https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8
 
 #EXTINF:-1 tvg-name="Now 70s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/250px-NOW_70s.png" group-title="World TV",Now 70s
 https://lightning-now70s-xiaomi.amagi.tv/playlist.m3u8
