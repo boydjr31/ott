@@ -1088,12 +1088,6 @@ https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="World TV",Rakuten TV Comedy Movies 2
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
 
-#EXTINF:-1  tvg-name="Qello Concerts by Stingray" tvg-id="CA400004SM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400004SM_20250121T095221SQUARE.png" group-title="World TV",Qello Concerts
-https://jmp2.uk/plu-64240d3d466225000827412b.m3u8
-
-#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="World TV",Qello Concerts
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb439-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ba3de05-22ef-4ab2-8d11-c4a6c21d39ba
-
 #EXTINF:-1  tvg-name="Movie Hub" tvg-id="d32267711c6a5cf36520716c96b5b3fa" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/d32267711c6a5cf36520716c96b5b3fa/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793656039_Movie_Hub_260x147.png" group-title="World TV",Movie Hub
 https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8
 
@@ -1224,11 +1218,6 @@ https://neacdnpop3-edge01.aws.playco.com/live/eds/Starzplay_Movies/DASH/Starzpla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f9fd1dd7d0716e37456c3e17f27ee7ba:3a00049c27da50ba56f081aef1b2d0b1
 https://neacdnpop3-edge01.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd
-
-#EXTINF:-1 tvg-id="MBC Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/MBC_Max_Logo.svg" group-title="World TV",MBC Max
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d995e35f26a3f5ad83f783272d33d956:5e065664006dfd499957b7a4324c8a4f
-https://neacdnpop3-edge01.aws.playco.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd
 
 #EXTINF:-1 tvg-name="Now 70s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/250px-NOW_70s.png" group-title="World TV",Now 70s
 https://lightning-now70s-xiaomi.amagi.tv/playlist.m3u8
