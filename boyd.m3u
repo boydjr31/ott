@@ -1527,12 +1527,12 @@ https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qd0
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.SXHtdobhpBgeebb4rP0TJAAAAA?pid=Api&P=0&h=220" group-title="World TV",Sony One Thriller TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=A948CCE6CB93C4B9D648C9ADA274D246:783e9e314d375f27cade69595fb94bca
-https://a153aivottlinear-a.akamaihd.../v1/90f1b14e4b534193b81e0c263ee7810b/cenc.mpd
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qbnukt8csn/out/v1/90f1b14e4b534193b81e0c263ee7810b/cenc.mpd
 
 #EXTINF:-1 tvg-id="Much Canada" group-title="World TV",Much Canada
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:183607d81708553c166cbdb7affa693a
-https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qbnukt8csn/out/v1/90f1b14e4b534193b81e0c263ee7810b/cenc.mpd
+https://lott2-web-opus.cdn.avp.telus.net/232006004089/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 
 ########## Ph Live Radio ##########
 
