@@ -1507,22 +1507,22 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.i6zR9b0gl6jls0OApZBoTAAAAA?pid=Api&P=0&h=220" group-title="World TV",Sony One Comedy Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5894EBA80A8AEE9FAB4A925183185D99:fe50655307fbdc2c4989c195423ccecf
-https://a153aivottlinear-a.akamaihd.../v1/f5666ad30e36413098a56bb8fd97c46a/cenc.mpd
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zbz23awyhg/out/v1/f5666ad30e36413098a56bb8fd97c46a/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.pK-naSEHQVrF2XQwFj0ITAAAAA?pid=Api&P=0&h=220" group-title="World TV",Sony One Faves
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1B43E3D441B36356BB900D93AC88301B:7cca6e6854c136297e848e9381565b7a
-https://a153aivottlinear-a.akamaihd.../v1/da8d0d3203de4ce497ec6af696d47a4f/cenc.mpd
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/m2vhkc7l1y/out/v1/da8d0d3203de4ce497ec6af696d47a4f/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.6uh6_QOtX23TrSVHY0gQKQAAAA?pid=Api&P=0&h=220" group-title="World TV",Sony One Action Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=F923872B58CB63C827A402ED0B52857A:c7fa135ed77f7c42389234846b402b71
-https://a153aivottlinear-a.akamaihd.../v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.9rVQza0711qr1xjOEW4scgAAAA?pid=Api&P=0&h=220" group-title="World TV",Sony One Comedy TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=E1CE486C2BD4A4F6C6007A0A7B454EFA:ae46c390767c07d69c65a45d45a75c11
-https://a153aivottlinear-a.akamaihd.../v1/29261e2484574d678581f85474d2751d/cenc.mpd
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qd0pqdbqya/out/v1/29261e2484574d678581f85474d2751d/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.SXHtdobhpBgeebb4rP0TJAAAAA?pid=Api&P=0&h=220" group-title="World TV",Sony One Thriller TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1532,7 +1532,7 @@ https://a153aivottlinear-a.akamaihd.../v1/90f1b14e4b534193b81e0c263ee7810b/cenc.
 #EXTINF:-1 tvg-id="Much Canada" group-title="World TV",Much Canada
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:183607d81708553c166cbdb7affa693a
-https://lott2-web-opus.cdn.avp.telus.net/232006004089/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qbnukt8csn/out/v1/90f1b14e4b534193b81e0c263ee7810b/cenc.mpd
 
 ########## Ph Live Radio ##########
 
