@@ -1560,6 +1560,9 @@ https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qbn
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:183607d81708553c166cbdb7affa693a
 https://lott2-web-opus.cdn.avp.telus.net/232006004089/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 
+#EXTINF:-1 tvg-name="Aquarium Channel" group-title="World TV",Aquarium Channel
+https://iptv.prosto.tv/ch325/video.m3u8
+
 ########## Ph Live Radio ##########
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
