@@ -1552,7 +1552,7 @@ https://iptv.prosto.tv/ch325/video.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7VC0daZr0i_BQ-6l4ssfcPUNFldF60UbUnRaKqxCcA&s=10" group-title="World TV",Universal Comedy
 http://72.1.184.5:8089/play/a07i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/7/7e/HBO_Plus_Sukiland_2021.svg/revision/latest?cb=20260115231913" group-title="World TV",HBO PLus
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/7/7e/HBO_Plus_Sukiland_2021.svg/revision/latest?cb=20260115231913" group-title="World TV",HBO Plus
 http://72.1.184.5:8089/play/a07q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOL2hUCWrUUTbWcPUwFbrlY4sSedR1Ny_fPVjw5l5ppA&s=10" group-title="World TV",HBO Xtreme
