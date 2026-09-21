@@ -386,6 +386,24 @@ https://ucdn.mediaquest.com.ph/bpk-tv/abc_aus/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f8391e9130634854b4614f02ec028ea7:9b9640f873cf906b91dd03c02612d5ce
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="pilipinaslive1" tvg-name="Pilipinas Live 1" group-title="Cignal",Pilipinas Live 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
+https://mylove.deniacdn.io/cignalplay/ch299.mpd
+
+#EXTINF:-1 tvg-id="pilipinaslive7" tvg-name="Pilipinas Live 7" group-title="Cignal",Pilipinas Live 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a7e9c316d424b80a2183f5c7d9e2046:746ca1548780fc4d8cc9fc948403a3da
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi7/default/index.mpd
+
+#EXTINF:-1 tvg-id="pilipinaslive8" tvg-name="Pilipinas Live 8" group-title="Cignal",Pilipinas Live 8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6c9a4218e534f099b167c3a5d2e8048:980ec0896ae1ba03f46d85453798b708
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi8/default/index.mpd
+
 ########## Converge TV ##########
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTZXTtozcxJmpR7clnHYf9iegeWBOWKLytA&s"
