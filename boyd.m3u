@@ -161,7 +161,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="dr_spotv2hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6A70-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
+#KODIPROP:inputstream.adaptive.license_key=f28d730090f64e229fb255b2afa6e36e:53d432c60f419541c7319dc1b6508e2c
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="dr_rockentertainment" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6C78-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Rock Entertainment
@@ -354,11 +354,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_thrill_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e7a3d5916c824b459f105d8e2c7a3046:616f8ab0c416966e8de415cb60e9e6cf
 https://ucdn.mediaquest.com.ph/bpk-tv/crime_invest/default/index.mpd
 
-#EXTINF:-1 tvg-id="buko" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD956-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Buko
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8b1d5f42a674e93b8016f2d9c7a5e34:168bbf02d7eca252a61a402e25cb33f5
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_buko_sd/default/index.mpd
-
 #EXTINF:-1 tvg-id="knowledge_channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADA5A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Knowledge Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84d2f6917b354c08a9163e5d8f2a7049:192c69ef479dd7e3fccc908d6c5dbb3a
@@ -403,6 +398,11 @@ https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi7/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6c9a4218e534f099b167c3a5d2e8048:980ec0896ae1ba03f46d85453798b708
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi8/default/index.mpd
+
+#EXTINF:-1 tvg-id="cg_ncaa" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/A47D8F20-1C63-4E95-AB72-9F305D6C81E4/0-16x9.jpg?height=150" group-title="Cignal",NCAA NXT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84f2a917c364e58b10963a7f2c8d451:e75d40a44350a148b32ad27081eadacb
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_ncaa/default/index.mpd
 
 ########## Converge TV ##########
 
@@ -1582,6 +1582,9 @@ http://72.1.184.5:8089/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fuyfjcn4gqee.png" group-title="Ph Live Radio",87.5 Republika FM1
 https://stream.zeno.fm/qnt98p5m108uv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYIg_JDb-ywT0nFRJb3z1gzIWjhuxt1ovqpz-uMqf4g&s=10" group-title="Ph Live Radio",88.3 Jam
+https://daphtls.serv00.net:8990/JAM883
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/983/awr-manila-891.ab9269f0.png" group-title="Ph Live Radio",89Galaxy Premium.1 AWR Manila
 http://192.53.113.120:8000/stream?type=.mp3
