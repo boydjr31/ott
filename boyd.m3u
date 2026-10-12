@@ -381,23 +381,73 @@ https://ucdn.mediaquest.com.ph/bpk-tv/abc_aus/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f8391e9130634854b4614f02ec028ea7:9b9640f873cf906b91dd03c02612d5ce
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="pilipinaslive1" tvg-name="Pilipinas Live 1" group-title="Cignal",Pilipinas Live 1
+#EXTINF:-1 tvg-id="PILIPINAS LIVE 1" tvg-name="PILIPINAS LIVE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cignal_logo.png/500px-Cignal_logo.png" group-title="ci",PILIPINAS LIVE 1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
-https://mylove.deniacdn.io/cignalplay/ch299.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73f8c2915d644e70b2189a3c6d7f2045:fb199597a99e601c9bc8767a1b20312b
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi1/default/index.mpd
 
-#EXTINF:-1 tvg-id="pilipinaslive7" tvg-name="Pilipinas Live 7" group-title="Cignal",Pilipinas Live 7
+#EXTINF:-1 tvg-id="PILIPINAS LIVE 2" tvg-name="PILIPINAS LIVE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cignal_logo.png/500px-Cignal_logo.png" group-title="ci",PILIPINAS LIVE 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5a8f3917d424e809b166f3c2a7d9045:6a7f2a17bad0a84674108234403d5fa0
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi2/default/index.mpd
+
+#EXTINF:-1 tvg-id="PILIPINAS LIVE 3" tvg-name="PILIPINAS LIVE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cignal_logo.png/500px-Cignal_logo.png" group-title="ci",PILIPINAS LIVE 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2f8d6917a354e60b2196d3c5a8f9042:2f593fbabad7a9f968c9fec691d59806
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi3/default/index.mpd
+
+#EXTINF:-1 tvg-id="PILIPINAS LIVE 4" tvg-name="PILIPINAS LIVE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cignal_logo.png/500px-Cignal_logo.png" group-title="ci",PILIPINAS LIVE 4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9a4d6316c854b008f175d3a7e2c9048:d7e06c12d35cfd2e13d8f3d3094941a3
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi4/default/index.mpd
+
+#EXTINF:-1 tvg-id="PILIPINAS LIVE 5" tvg-name="PILIPINAS LIVE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cignal_logo.png/500px-Cignal_logo.png" group-title="ci",PILIPINAS LIVE 5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4f7c8219d624e30a9156c3a5d7f2048:60391d7d3bb726a4a95e66c4c0af219d
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi5/default/index.mpd
+
+#EXTINF:-1 tvg-id="PILIPINAS LIVE 6" tvg-name="PILIPINAS LIVE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cignal_logo.png/500px-Cignal_logo.png" group-title="ci",PILIPINAS LIVE 6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d8a6915c724b609e146a7f3c2d8049:20b4724a4d406c3a89c7b0d7084626a0
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi6/default/index.mpd
+
+#EXTINF:-1 tvg-id="PILIPINAS LIVE 7" tvg-name="Pilipinas Live 7" group-title="Cignal",Pilipinas Live 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a7e9c316d424b80a2183f5c7d9e2046:746ca1548780fc4d8cc9fc948403a3da
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi7/default/index.mpd
 
-#EXTINF:-1 tvg-id="pilipinaslive8" tvg-name="Pilipinas Live 8" group-title="Cignal",Pilipinas Live 8
+#EXTINF:-1 tvg-id="PILIPINAS LIVE 8" tvg-name="Pilipinas Live 8" group-title="Cignal",Pilipinas Live 8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6c9a4218e534f099b167c3a5d2e8048:980ec0896ae1ba03f46d85453798b708
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi8/default/index.mpd
+
+#EXTINF:-1 tvg-id="PILIPINAS LIVE 9" tvg-name="PILIPINAS LIVE 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cignal_logo.png/500px-Cignal_logo.png" group-title="ci",PILIPINAS LIVE 9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c8e5a927d434f60b2196a3c9e5d8041:33af0fd38e463d1c747a2cb0b203c42e
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi9/default/index.mpd
+
+#EXTINF:-1 tvg-id="PILIPINAS LIVE 10" tvg-name="PILIPINAS LIVE 10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cignal_logo.png/500px-Cignal_logo.png" group-title="ci",PILIPINAS LIVE 10
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi10/default/index.mpd
 
 #EXTINF:-1 tvg-id="cg_ncaa" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/A47D8F20-1C63-4E95-AB72-9F305D6C81E4/0-16x9.jpg?height=150" group-title="Cignal",NCAA NXT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
