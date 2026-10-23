@@ -1363,7 +1363,7 @@ https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8
 https://k227.jk-cdn.com/watch/live.m3u8?video=ocn_540&sid=5MkmUYkT7B8QiGGDIp8OTtYByD7RX0KSVMvKitbK&secret=24cf4f0707e771d470e86c3767409c11&time=1783689546#.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="World TV", A2Z
-https://streams.comclark.com/pknsd/a2z/playlist.m3u8
+http://103.196.177.230:80/bongao/bongao/38.m3u8
 
 #EXTINF:-1 tvg-id="retro.plus" tvg-logo="https://cdn.aptoide.com/imgs/7/4/8/74815c2b6c389d15aea0fd7897937e30_icon.png" group-title="World TV",Retro Plus Music
 https://rtmpcontrol.com:1936/retroplus/retroplus.stream/playlist.m3u8
@@ -1636,6 +1636,30 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qio4cutx9r/out/v1/c89ef71f801b42b7abe65c7777adc6c4/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Kapamilya HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Kapamilya_Channel_hd_flat_2022.png" group-title="World TV",Kapamilya HD
+http://103.196.177.230:80/bongao/bongao/35.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ALL TV 2" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/e/ed/ALLTV2_Logo_2024.png" group-title="World TV",ALL TV 2
+http://103.196.177.230:80/bongao/bongao/42.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://download.logo.wine/logo/HBO_(Asia)/HBO_(Asia)-Logo.wine.png" group-title="World TV",HBO
+http://103.196.177.230:80/bongao/bongao/75.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="World TV",HBO HITS
+http://103.196.177.230:80/bongao/bongao/76.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="World TV",HBO Signature
+http://103.196.177.230:80/bongao/bongao/77.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="World TV",HBO Family
+http://103.196.177.230:80/bongao/bongao/78.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKE" tvg-logo="https://png.pngtree.com/png-clipart/20211121/original/pngtree-karaoke-lable-png-and-psd-png-image_6947629.png" group-title="World TV",KARAOKE
+http://103.196.177.230:80/bongao/bongao/117.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="World TV",beIN SPORTS XTRA
+http://103.196.177.230:80/bongao/bongao/5478.ts
 
 ########## Ph Live Radio ##########
 
