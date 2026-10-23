@@ -1630,9 +1630,6 @@ http://103.196.177.230:80/bongao/bongao/75.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="World TV",HBO HITS
 http://103.196.177.230:80/bongao/bongao/76.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="World TV",HBO Signature
-http://103.196.177.230:80/bongao/bongao/77.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="KARAOKE" tvg-logo="https://png.pngtree.com/png-clipart/20211121/original/pngtree-karaoke-lable-png-and-psd-png-image_6947629.png" group-title="World TV",KARAOKE
 http://103.196.177.230:80/bongao/bongao/117.ts
 
