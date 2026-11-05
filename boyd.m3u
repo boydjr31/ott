@@ -1123,12 +1123,6 @@ https://slive.mana2.my/AniPlus/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/WcYS3S3.png" ,Kapamilya Channel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://rageteebee.vercel.app/logo.png" group-title="World TV",Rage TV By Blaze
 https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/playlist.m3u8
 
