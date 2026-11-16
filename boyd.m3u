@@ -1280,8 +1280,17 @@ https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ahmpb0xbui/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7e5905e0a87641798a200510f01ae5ca:814310518395440d57c67f2ef70ea250
 https://abslive.akamaized.net/dash/live/2027618/mor/manifest.mpd
 
-#EXTINF:-1 tvg-name="Mux" tvg-id="Mux" group-title="World TV",Mux
-https://live20.bozztv.com/giatvplayout7/giatv-209297/playlist.m3u8
+#EXTINF:-1 tvg-name="Mux" tvg-id="Mux" group-title="World TV",Mux World
+https://183.giatvcdn.com/giatvplayout7/giatv-209297/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mux" tvg-id="Mux" group-title="World TV",Mux Filipino
+https://183.giatvcdn.com/giatvplayout7/giatv-209323/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mux" tvg-id="Mux" group-title="World TV",Mux News
+https://183.giatvcdn.com/giatvplayout7/giatv-209306/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mux" tvg-id="Mux" group-title="World TV",Mux Sports
+https://183.giatvcdn.com/giatvplayout7/giatv-209395/playlist.m3u8
 
 #EXTINF:-1 channel-id="68487fb3f212bedacf5a53e3" tvg-id="68487fb3f212bedacf5a53e3" tvg-name="50 Cent Action" tvg-logo="https://images.pluto.tv/channels/68487fb3f212bedacf5a53e3/colorLogoPNG_1749846553889.png" group-title="World TV",50 Cent Action
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
@@ -1309,10 +1318,10 @@ https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
 https://brandusa-gousa-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mux Movies" tvg-logo="https://phcorner.org/attachments/4127174/" group-title="World TV",Mux Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209412/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-209412/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mux Life" tvg-logo="https://phcorner.org/attachments/4127167/" group-title="World TV",Mux Life
-https://live20.bozztv.com/giatvplayout7/giatv-209362/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-209362/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MBC Action" tvg-logo="https://static.wikia.nocookie.net/entertainment1/images/c/cc/MBC_Action.webp/revision/latest/scale-to-width-down/1200?cb=20240626230058" group-title="World TV",MBC Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
